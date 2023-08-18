@@ -6090,11 +6090,11 @@ body .enabled_custom_title .title_page .main_tit {
   background: #fff;
   border-radius: 60px 0px 0px 60px;
 }
-/* .header.style_one.style_two_remade ,
-.default_sickty_heaad.style_one.style_two_remade { */
-.header.style_one.style_two_remade .auto-container:before,
+
+/* .header.style_one.style_two_remade .auto-container:before, */
+.header.style_one.style_two_remade .auto-container,
 .default_sickty_heaad.style_one.style_two_remade {
-  position: absolute;
+  /* position: absolute; */
   content: "";
   width: 100%;
   right: -50%;
